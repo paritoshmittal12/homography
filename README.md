@@ -11,11 +11,14 @@ Repo Structure:
 * **panorama**: Code to create a panorama from multiple images. Note: for best resuts one should try to keep camera center fixed.
 
 
-<p align="center">
-  <img src="images/pano_left.png">
-  <img src="images/pano_right.png">
-  Visualization of the Image(Left) and it's corresponding wordmap
-</p>
+| ||
+|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="pano_left" src="images/pano_left.jpeg">  Left Image |  <img width="1604" alt="pano_right" src="images/pano_right.jpeg">  Right Image |
+
+||
+|:--------------:|
+|<img width="3208" alt="a" src="images/panorama.png"> Final Panorama|
+
 
 Assumptions:
 1. The code assumes that point correspondence is already computed
